@@ -4,7 +4,7 @@ settings =
     {
         apkFiles =
         {
-            "google-play-services.json",
+            "google-services.json",
         },
  
     },
