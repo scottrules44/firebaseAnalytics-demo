@@ -1,0 +1,16 @@
+settings =
+{
+	android =
+    {
+        apkFiles =
+        {
+            "google-play-services.json",
+        },
+ 
+    },
+	plugins= {
+		["plugin.firebaseAnalytics"] = {
+			publisherId = "tech.scotth",
+		}
+	},
+}
