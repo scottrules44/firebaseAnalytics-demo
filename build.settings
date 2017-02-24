@@ -2,15 +2,15 @@ settings =
 {
 	android =
     {
-        apkFiles =
+        strings =
         {
-            "google-services.json",
+            ["google_app_id"]="replace with your own app id",  
         },
  
     },
 	plugins= {
-		["plugin.firebaseAnalytics"] = {
-			publisherId = "tech.scotth",
-		}
-	},
+        ["plugin.firebaseAnalytics"] = {
+            publisherId = "tech.scotth",
+        },
+    }
 }
