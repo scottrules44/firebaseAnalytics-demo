@@ -4,7 +4,7 @@ settings =
     {
         strings =
         {
-            ["google_app_id"]="replace with your own app id",  
+            ["google_app_id"]="replace with your own app id",
         },
  
     },
