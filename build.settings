@@ -1,16 +1,12 @@
 settings =
 {
 	android =
-    {
-        strings =
-        {
-            ["google_app_id"]="replace with your own app id",
-        },
- 
-    },
-	plugins= {
-        ["plugin.firebaseAnalytics"] = {
-            publisherId = "tech.scotth",
-        },
-    }
+    	{
+        	useGoogleServicesJson = true,
+    	},
+    	plugins= {
+	        ["plugin.firebaseAnalytics"] = {
+            		publisherId = "tech.scotth",
+        	},
+    	}
 }
