@@ -2,6 +2,11 @@ settings =
 {
 	android =
     	{
+		strings =
+		{
+
+		    ["google_app_id"]= "1:example number:android:example number"
+		},
         	useGoogleServicesJson = true,
     	},
     	plugins= {
