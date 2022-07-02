@@ -12,6 +12,7 @@ settings =
     	plugins= {
 	        ["plugin.firebaseAnalytics"] = {
             		publisherId = "tech.scotth",
+			marketplaceId = "replace with your own"
         	},
     	}
 }
